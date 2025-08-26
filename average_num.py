@@ -1,4 +1,3 @@
-# This code calculates the average of five numbers input by the user.
 num1 = int(input("enter first number: "))
 num2 = int(input("enter second number: "))
 num3 = int(input("enter third number: "))

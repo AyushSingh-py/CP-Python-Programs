@@ -1,4 +1,3 @@
-#read N, print no. of digits in N
 N = int(input("Enter a number: "))
 count = 0
 while N > 0:

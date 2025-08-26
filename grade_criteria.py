@@ -1,4 +1,3 @@
-# Accept the percetage of marks obtained by a student and print the grade based on the following criteria:
 per1 = float(input("Enter the percentage of marks obtained: "))
 if per1 >= 90:
     print("Grade: A")

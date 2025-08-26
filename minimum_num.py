@@ -1,4 +1,3 @@
-# WAP to input three numbers and print the minimum number
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 num3 = float(input("Enter third number: "))
