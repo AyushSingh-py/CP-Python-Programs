@@ -1,0 +1,11 @@
+name = "Suyash"
+print(name)
+
+def fun():
+    global name
+    name = "Chaudhary"
+    lang = "Python"
+    print(lang)
+
+fun()
+print(name)
